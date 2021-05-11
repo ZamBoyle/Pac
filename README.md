@@ -1,2 +1,2 @@
 # Pac
-Page Accessibility  Checker
+Pac stands for Page Accessibility Checker.
